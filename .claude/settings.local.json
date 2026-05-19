@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3)",
+      "Bash(grep -c 'html.light .fs-hero__bg\\\\|html.light .fs-hero__desc\\\\|html.light .fs-hero__scroll\\\\|html.light .fs-hero__investors\\\\|html.light .fs-hero__nav-links a {' '/Users/dodox/Documents/Project/AI Learning/Antora/__TRACKED_VAR__')",
+      "Bash(grep -c 'toggleLabel.*Dark\\\\|isLight.*Light.*Dark\\\\|fs-hero__video\\\\|solution-btn.*rgba.*240' '/Users/dodox/Documents/Project/AI Learning/Antora/__TRACKED_VAR__')"
+    ]
+  }
+}
